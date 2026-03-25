@@ -135,6 +135,8 @@ a {
 .intro2 h3 {
   font-size: 2rem;
   margin-bottom: 1rem;
+  align-items: center;
+  justify-content: center;
 }
 /* Footer */
 footer {
